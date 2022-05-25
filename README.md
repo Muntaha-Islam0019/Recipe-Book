@@ -1,6 +1,6 @@
-# RecipeBook
+# Recipe Book
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.6.
+Recipe Book is your personal recipe assistant where you can store recipes and also make shopping list for missing ingredients. This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.6.
 
 ## Development server
 
