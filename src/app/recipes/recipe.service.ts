@@ -25,7 +25,7 @@ export class RecipeService {
       'This is made with Bean and Beef',
       'https://media-cldnry.s-nbcnews.com/image/upload/t_fit-1240w,f_auto,q_auto:best/newscms/2020_39/1611689/fall-recipes-te-main-200921.jpg',
       [
-        new Ingredient('Bean', 30),
+        new Ingredient('Beans', 30),
         new Ingredient('Beef', 50),
         new Ingredient('Chili', 10),
       ]
